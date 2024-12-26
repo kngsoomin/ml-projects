@@ -1,0 +1,38 @@
+# Python files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Data files
+*.csv
+*.tsv
+/data/
+
+# Models and weights
+*.h5
+*.joblib
+*.pkl
+/models/
+
+# Logs
+*.log
+*.out
+
+# Outputs
+/outputs/
+*.png
+*.jpg
+
+# Environment and secrets
+.env
+
+# IDE files
+.vscode/
+.idea/
